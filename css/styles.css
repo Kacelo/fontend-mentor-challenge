@@ -1,0 +1,57 @@
+
+body{
+    text-align:center;
+	font-family:"Red Hat Display", sans-serif;
+	font-weight:500;
+}
+
+
+.details{
+	text-align:center;
+	
+}
+.annualPlan{
+	background-color: #F0F8FF;
+	border-radius: 20px;
+}
+
+.music{
+	padding-top:28px;
+	padding-left:20px;
+	float:left;
+}
+.summary{
+	text-align:center;
+	
+}
+.white_section{
+	text-align: center;
+}
+
+.paymentbtn{
+	padding-top:30px;
+	
+}
+
+#plan{
+	padding-top:2%;
+	padding-left:10%;
+}
+
+.container-fluid{
+	position:relative;
+	text-align:center;
+}
+.card{
+	margin-top:3%;
+	margin-left:34%;
+	margin-right:34%;
+	border-radius:20px;
+}
+.button{
+	color:hsl(223, 47%, 23%);
+}
+.cancel{
+	margin-bottom:5%;
+}
+
